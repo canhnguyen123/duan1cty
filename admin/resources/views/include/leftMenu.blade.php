@@ -27,11 +27,11 @@
             <i class="fas fa-fw fa-tachometer-alt"></i>
             <span>Bài dăng trên tour</span></a>
     </li>
-    {{-- <li class="nav-item">
+    <li class="nav-item">
         <a class="nav-link" href="{{route('service_list')}}">
             <i class="fas fa-fw fa-tachometer-alt"></i>
             <span>Dịch vụ</span></a>
-    </li> --}}
+    </li>      
 
     <!-- Nav Item - Pages Collapse Menu -->
     <li class="nav-item active">
