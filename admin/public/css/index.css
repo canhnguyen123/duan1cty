@@ -1,0 +1,23 @@
+.pd-50-t-b{
+    padding: 50px 20px;
+}
+.flex_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item-card-icon{
+    width: 40px !important;
+    height: 40px !important;
+    background-color: #224abe;
+    border-radius: 8px;
+}
+.item-card-icon i{
+    color: white;
+}
+.table-responsive form{
+    width: 100%;
+}
+.err-span span{
+    color: red;
+}
